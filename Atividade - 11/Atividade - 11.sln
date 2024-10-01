@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade - 11", "Atividade - 11\Atividade - 11.csproj", "{D40F5219-4891-4D92-9224-AE2EBC092B7B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12 - TryCatch", "..\..\..\IntroducaoC#\12 - TryCatch\12 - TryCatch\12 - TryCatch.csproj", "{B001942E-2FD3-44EC-A011-983306740C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40F5219-4891-4D92-9224-AE2EBC092B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40F5219-4891-4D92-9224-AE2EBC092B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40F5219-4891-4D92-9224-AE2EBC092B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40F5219-4891-4D92-9224-AE2EBC092B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B001942E-2FD3-44EC-A011-983306740C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B001942E-2FD3-44EC-A011-983306740C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B001942E-2FD3-44EC-A011-983306740C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B001942E-2FD3-44EC-A011-983306740C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8816901B-2693-4DD6-B886-D9C7C26A0B9B}
+	EndGlobalSection
+EndGlobal
